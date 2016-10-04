@@ -1,5 +1,5 @@
-# Maintainer: Anthony Cornehl <accornehl@gmail.com>
-# https://github.com/twinshadow/openstack-aur
+# Maintainer: Tiago O. Ramos <tor@openstack.eti.br>
+# https://github.com/tiagoor/openstack-avr
 
 _realpkgname="novaclient"
 pkgname="python2-${_realpkgname}-git"
